@@ -57,3 +57,11 @@ function clearResultField() {
     currentOperation = '';
     document.getElementById('result-field').value = '';
 }
+
+function backspace() {
+    if (currentInput !== '') {
+        currentInput = currentInput.slice(0, -1);
+        document.getElementById('result-field').value = 
+            previousInput ? `${previousInput} ${currentOperation} ${currentInput}` : currentInput;
+    }
+}
