@@ -1,1 +1,4 @@
 # webapp-trnka
+AI pomoc - v 1. casti ulohy som vyuzil schopnost AI analyzovat obrazky tak, ze som uploadol image svojich diagramov (vo vsetkych troch) a promptom sa pytal na prehladnost, zrozumitelnost a logickost diagramov. Po odpovedi som upravil svoje diagramy na zaklade spatnej vazby od AI. Overenie akejsi spravnosti v tomto som riesil tak ze som sa pytal na konkretne body do podrobnejsia, ak sa mi nieco nezdalo, a ak mi nieco prislo nelogicke tak som sa riadil svojim "gut"om viac ako AI, popripade ked islo o spravne oznacovania a take veci som mal z webstranok atd..
+Zaklady mojich diagramov som robil sam (logiku) a tie veci ako spravne oznacovanie som mal z internetu (tych videi v ucebnych materialoch a nejakych dokumentacnych webstrankach)
+Co sa tyka tejto druhej casti ulohy tak html css js som spravil sam. Zdroje ine ako moju hlavu som pouzil iba w3school css reference cheatsheet a stackoverflow na jeden problem. Gitove veci som tiez vedel sam urobit.
